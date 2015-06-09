@@ -112,33 +112,33 @@ Admins can be manually created in the console by adding a "drinker"
 Admin has ability to remove bars from the database, by going to the /admin page:
 ![Screen Shot](/admin.png)
 
-== README
+<!--== README-->
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<!--This README would normally document whatever steps are necessary to get the-->
+<!--application up and running.-->
 
-Things you may want to cover:
+<!--Things you may want to cover:-->
 
-* Ruby version
-Ruby 2.1.2p95
-Rails 4.2.1
-* System dependencies
-? yelp gem?
-* Configuration
-?
-* Database creation
-rake db:create
-* Database initialization
-rake db:migrate
-rake db:seed
-* How to run the test suite
+<!--* Ruby version-->
+<!--Ruby 2.1.2p95-->
+<!--Rails 4.2.1-->
+<!--* System dependencies-->
+<!--? yelp gem?-->
+<!--* Configuration-->
+<!--?-->
+<!--* Database creation-->
+<!--rake db:create-->
+<!--* Database initialization-->
+<!--rake db:migrate-->
+<!--rake db:seed-->
+<!--* How to run the test suite-->
 
-* Services (job queues, cache servers, search engines, etc.)
+<!--* Services (job queues, cache servers, search engines, etc.)-->
 
-* Deployment instructions
+<!--* Deployment instructions-->
 
-* ...
+<!--* ...-->
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+<!--Please feel free to use a different markup language if you do not plan to run-->
+<!--<tt>rake doc:app</tt>.-->
