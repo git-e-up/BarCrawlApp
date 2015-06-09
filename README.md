@@ -3,7 +3,9 @@ Bar Crawl App
 ![alt tag](http://git-e-up.github.io/img/BarCrawlApp.png)
 
 **Technologies used:**
-Rails,
+Ruby 2.1.2p95,
+Rails 4.2.1,
+psql (PostgreSQL) 9.4.1
 JQuery,
 Skeleton
 Yelp gem,
@@ -12,10 +14,6 @@ Google Maps api
 **Live Application:**
 <a href="https://linusdisaster.herokuapp.com/" target="_blank">Choose Your Own Disaster</a>
 
-Technology Stack:
-- Ruby 2.1.2p95,
-- Rails 4.2.1,
-- psql (PostgreSQL) 9.4.1
 
 
 
@@ -27,7 +25,7 @@ https://www.yelp.com/developers/manage_api_keys
 http://getskeleton.com/
 (download and insert both the normalize.css and skeleton.css into your vendor/assets/stylesheets directory)
 
-
+**INFORMATION BELOW IS PART OF THE INITIAL APPLICATION, BUT MOST WAS REDACTED/COMMENTED OUT TO EXPEDITE A VERSION 1.0**
 Bar/Tavern information:
 https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses-Current-Liquor-and-Public-Places/nrmj-3kcf
 - Filter information
