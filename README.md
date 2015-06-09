@@ -24,7 +24,7 @@ https://www.yelp.com/developers/manage_api_keys
 - Skeleton CSS framework (recommended)
 http://getskeleton.com/
 (download and insert both the normalize.css and skeleton.css into your vendor/assets/stylesheets directory)
-
+******************************
 **INFORMATION BELOW IS PART OF THE INITIAL APPLICATION, BUT MOST WAS REDACTED/COMMENTED OUT TO EXPEDITE A VERSION 1.0**
 
 
