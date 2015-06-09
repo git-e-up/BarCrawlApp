@@ -26,6 +26,8 @@ http://getskeleton.com/
 (download and insert both the normalize.css and skeleton.css into your vendor/assets/stylesheets directory)
 
 **INFORMATION BELOW IS PART OF THE INITIAL APPLICATION, BUT MOST WAS REDACTED/COMMENTED OUT TO EXPEDITE A VERSION 1.0**
+
+
 Bar/Tavern information:
 https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses-Current-Liquor-and-Public-Places/nrmj-3kcf
 - Filter information
